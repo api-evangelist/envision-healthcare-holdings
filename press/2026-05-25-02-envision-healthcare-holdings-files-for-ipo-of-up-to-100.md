@@ -1,7 +1,9 @@
 ---
 title: Envision Healthcare Holdings files for IPO of up to $100 ...
 url: https://www.reuters.com/article/business/envision-healthcare-holdings-files-for-ipo-of-up-to-100-million-idUSL3N0EP4BC/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Envision Healthcare Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google

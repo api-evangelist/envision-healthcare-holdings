@@ -1,7 +1,9 @@
 ---
 title: Healthcare service providers Envision, AmSurg to merge in ...
 url: https://www.massdevice.com/healthcare-service-providers-envision-amsurg-merge/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Envision Healthcare Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google

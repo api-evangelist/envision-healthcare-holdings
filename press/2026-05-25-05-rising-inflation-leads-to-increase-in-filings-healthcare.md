@@ -1,7 +1,9 @@
 ---
 title: Rising Inflation Leads to Increase in Filings Healthcare
 url: https://natlawreview.com/article/envision-s-bankruptcy-provides-insight-all-ailing-healthcare-industry
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Envision Healthcare Holdings" press release artificial intelligence'
 position: 5
 source: serpapi-google
